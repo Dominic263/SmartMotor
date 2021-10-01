@@ -1,2 +1,2 @@
 # SmartMotor
-Train a motor positions against any sensor readings from your phone.
+Train a motor to map positions against any sensor readings from your phone.
